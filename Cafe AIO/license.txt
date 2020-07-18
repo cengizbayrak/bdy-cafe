@@ -1,0 +1,4 @@
+yeni lisans biçimi: yyyy-MM-dd -> binary format
+
+
+yyyyMM - https://goo.gl/3Df7q8
